@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: configservice
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: wangzigui_cs
+Built-By: Administrator
 Implementation-Vendor-Id: com.nf.config
-Build-Jdk: 1.8.0_66
+Build-Jdk: 1.8.0_144
 Implementation-URL: http://projects.spring.io/spring-boot/configservic
  e/
 Created-By: Maven Integration for Eclipse
